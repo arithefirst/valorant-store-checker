@@ -50,11 +50,6 @@ for i in shop_items:
             {
             "title": f'{itemdata.json()["data"]["displayName"]} - {response.json()["SkinsPanelLayout"]["SingleItemStoreOffers"][i]["Cost"]["85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741"]}VP',
             "color": 13346551,
-            "author": {
-                "name": "arithefirst 2024",
-                "url": "https://arithefirst.com",
-                "icon_url": "https://arithefirst.com/images/pfp.png"
-            },
             "image": {
                 "url": f'{itemdata.json()["data"]["displayIcon"]}'
             }
