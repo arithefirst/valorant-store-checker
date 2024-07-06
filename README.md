@@ -1,5 +1,5 @@
                      
-<h1 align="center" style="font-weight: bold;">💻 Valorant Store Notifyer 💻</h1>
+<h1 align="center" style="font-weight: bold;">💻 Valorant Store Checker 💻</h1>
 
 <p align="center">A python tool to send you the contents of your Valorant shop every time it refreshes (00:00 UTC)</p>
 
