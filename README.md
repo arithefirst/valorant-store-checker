@@ -17,6 +17,7 @@
 To run this project you will need
 - A Linux Sever
 - [Python 3.12](https://www.python.org/downloads/release/python-3120/)
+- [git](https://git-scm.com/)
  
 <h3 id="cloning">Cloning</h3>
 
@@ -42,7 +43,8 @@ To Setup this project, follow the steps below:
 
 1) <a href=#cloning>Clone this project locally</a>
 2) <a href=#env>Setup your .env file</a>
-3) Run <a href="https://github.com/arithefirst/valorant-store-checker/blob/main/main.py">`main.py`</a> to check the items in your store and send them to your webhook
+3) run `pip install -r requirements.txt` while inside the cloned repo
+4) Run <a href="https://github.com/arithefirst/valorant-store-checker/blob/main/main.py">`main.py`</a> to check the items in your store and send them to your webhook
 
 <h3>Automation</h3>
 To Automate this project, follow the steps below:
